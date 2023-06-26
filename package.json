@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "ignite-nodejs-fundamentals",
+  "version": "1.0.0",
+  "description": "🛠RocketSeat's first Ignite course project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diogo-gallina/Ignite-Nodejs-Fundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diogo-gallina/Ignite-Nodejs-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/Diogo-gallina/Ignite-Nodejs-Fundamentals#readme"
+}
