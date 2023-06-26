@@ -30,4 +30,14 @@ export const routes = [
             return response.writeHead(201).end();
         }
     },
+    {
+        method: 'DELETE',
+        path: '/users', 
+        handler: (request, response) => {
+            
+        }
+    },
+    {
+
+    },
 ]
